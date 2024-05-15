@@ -1,0 +1,10 @@
+{
+  "name": "CustomMail",
+  "description": "A plugin for LunarCore to send custom mails.",
+  "version": "1.0.0",
+  "api": 1,
+  "authors": [ "yuko1101" ],
+  "mainClass": "io.github.yuko1101.custommail.CustomMailPlugin",
+  "comments": [
+  ]
+}
